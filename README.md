@@ -10,8 +10,11 @@
 <img src = "https://github.com/CarlosVinicios99/Site-Android/blob/main/resultados-visuais/parte5.png?raw=true">
 <hr>
 <br>
-<h2>Navegação, Conteúdo e Efeitos em geral</h2>
-<a href="https://www.youtube.com/embed/RF9OCaU3ITc" target = "_blank"> Veja o Video no Youtube </a>
+<h2>Navegação, Conteúdo, Responsividade e Efeitos em geral</h2>
+<p>
+  O github dificulta a inserção de vídeos nos repositórios devido ao tamanho dos arquivos (que nem são grandes assim). Devido a isso peço que assista o vídeo no youtube caso esteja passando por aqui.
+</p>
+<a href="https://www.youtube.com/embed/RF9OCaU3ITc" target = "_blank"> Veja no Youtube </a>
 <hr>
 <br>
 
